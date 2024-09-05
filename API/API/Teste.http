@@ -1,0 +1,7 @@
+###
+GET: http://localhost:5117/produto/listar 
+
+### Listar Produtos
+POST: https://localhost:5117/produtos/cadastrar 
+
+
